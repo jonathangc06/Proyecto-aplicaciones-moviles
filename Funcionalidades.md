@@ -9,6 +9,7 @@
 - Se utilizarán bases de datos para almacenar la información de las noticias y eventos publicados, perfiles de usuarios y comentarios.
 - Los datos personales de los usuarios serán protegidos  y no se compartirán con terceros sin su consentimiento.
 - Se requiere una conexión a internet para acceder a las noticias, eventos y actualizaciones.
+- La informacion sera proporcionada por las facultades, coordinadores, decanos, etc.
 
 ## Funcionalidades de usuarios
 
