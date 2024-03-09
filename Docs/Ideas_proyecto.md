@@ -1,6 +1,6 @@
 # Ideas para el proyecto
  ## #1 UAN NEWS (Idea seleccionada)
-UAN News es una aplicacion movil  la cual pretende brindar las ultimas noticias, eventos y actualizaciones sobre las  facultades y carreras de nuestra universidad. Esto con el objetivo de proporcionar información relevante y oportuna para mantener informada a toda la comunidad universitaria sobre los desarrollos más recientes en cada facultad y carrera de la universidad.
+UAN News es una aplicacion movil  la cual pretende brindar las ultimas noticias, eventos y actualizaciones sobre las  facultades y carreras de nuestra universidad. Esto con el objetivo de proporcionar información relevante y oportuna para mantener informada a toda la comunidad universitaria sobre los desarrollos más recientes en cada facultad y carrera de la universidad, la informacionsera sacada de las facultades, coordinadores o decanos.
 
 Aplicaciones similares que existe actialmente: 
 - [UniNow](https://uninow.com "UniNow")
